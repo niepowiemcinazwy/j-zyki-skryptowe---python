@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Szlak 1",
+        "region": "Gdańsk",
+        "length_km": 5.5,
+        "difficulty": 2,
+        "terrain_type": "urban",
+        "elevation_gain": 30,
+        "tags": "city, park",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    },
+    {
+        "name": "Szlak 2",
+        "region": "Gdańsk",
+        "length_km": 4.8,
+        "difficulty": 2,
+        "terrain_type": "lakeside",
+        "elevation_gain": 40,
+        "tags": "water, nature",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    },
+    {
+        "name": "Szlak 12",
+        "region": "Gdańsk",
+        "length_km": 4.0,
+        "difficulty": 1,
+        "terrain_type": "urban",
+        "elevation_gain": 12,
+        "tags": "city, historical",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    },
+    {
+        "name": "Szlak 13",
+        "region": "Gdańsk",
+        "length_km": 3.5,
+        "difficulty": 2,
+        "terrain_type": "lakeside",
+        "elevation_gain": 15,
+        "tags": "water, park",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    },
+    {
+        "name": "Szlak 21",
+        "region": "Gdańsk",
+        "length_km": 4.4,
+        "difficulty": 2,
+        "terrain_type": "urban",
+        "elevation_gain": 35,
+        "tags": "city, historical",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    },
+    {
+        "name": "Szlak 30",
+        "region": "Gdańsk",
+        "length_km": 4.1,
+        "difficulty": 2,
+        "terrain_type": "urban",
+        "elevation_gain": 22,
+        "tags": "city, historical",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    },
+    {
+        "name": "Szlak 48",
+        "region": "Gdańsk",
+        "length_km": 4.2,
+        "difficulty": 2,
+        "terrain_type": "urban",
+        "elevation_gain": 22,
+        "tags": "city, historical",
+        "avg_temp": 11,
+        "precipitation": 259.59999999999997,
+        "sunshine_hours": 91.0
+    }
+]
