@@ -1,0 +1,1002 @@
+[
+    {
+        "date": "2024-01-01",
+        "region": "Gdańsk",
+        "avg_temp": 7.2,
+        "min_temp": -2.6,
+        "max_temp": 17.0,
+        "precipitation": 25.9,
+        "sunshine_hours": 10.2,
+        "cloud_cover": 4
+    },
+    {
+        "date": "2024-01-02",
+        "region": "Oliwa",
+        "avg_temp": 18.7,
+        "min_temp": 11.5,
+        "max_temp": 24.8,
+        "precipitation": 31.5,
+        "sunshine_hours": 4.0,
+        "cloud_cover": 91
+    },
+    {
+        "date": "2024-01-03",
+        "region": "Jelitkowo",
+        "avg_temp": 15.1,
+        "min_temp": 8.7,
+        "max_temp": 19.4,
+        "precipitation": 27.1,
+        "sunshine_hours": 11.8,
+        "cloud_cover": 63
+    },
+    {
+        "date": "2024-01-04",
+        "region": "Jelitkowo",
+        "avg_temp": 8.7,
+        "min_temp": 0.2,
+        "max_temp": 11.5,
+        "precipitation": 31.9,
+        "sunshine_hours": 11.8,
+        "cloud_cover": 48
+    },
+    {
+        "date": "2024-01-05",
+        "region": "Gdynia",
+        "avg_temp": -2.9,
+        "min_temp": -10.5,
+        "max_temp": 1.1,
+        "precipitation": 15.2,
+        "sunshine_hours": 12.9,
+        "cloud_cover": 52
+    },
+    {
+        "date": "2024-01-06",
+        "region": "Gdańsk",
+        "avg_temp": 6.9,
+        "min_temp": 4.1,
+        "max_temp": 15.9,
+        "precipitation": 32.3,
+        "sunshine_hours": 4.1,
+        "cloud_cover": 46
+    },
+    {
+        "date": "2024-01-07",
+        "region": "Oliwa",
+        "avg_temp": 6.1,
+        "min_temp": 2.5,
+        "max_temp": 15.2,
+        "precipitation": 24.0,
+        "sunshine_hours": 12.8,
+        "cloud_cover": 96
+    },
+    {
+        "date": "2024-01-08",
+        "region": "Gdańsk",
+        "avg_temp": 18.8,
+        "min_temp": 12.1,
+        "max_temp": 26.3,
+        "precipitation": 39.4,
+        "sunshine_hours": 6.3,
+        "cloud_cover": 82
+    },
+    {
+        "date": "2024-01-09",
+        "region": "Brzezno",
+        "avg_temp": -2.7,
+        "min_temp": -11.9,
+        "max_temp": 6.1,
+        "precipitation": 28.5,
+        "sunshine_hours": 3.6,
+        "cloud_cover": 8
+    },
+    {
+        "date": "2024-01-10",
+        "region": "Gdańsk",
+        "avg_temp": 8.6,
+        "min_temp": 1.9,
+        "max_temp": 13.9,
+        "precipitation": 16.2,
+        "sunshine_hours": 12.6,
+        "cloud_cover": 89
+    },
+    {
+        "date": "2024-01-11",
+        "region": "Gdynia",
+        "avg_temp": 9.1,
+        "min_temp": 3.5,
+        "max_temp": 14.3,
+        "precipitation": 41.6,
+        "sunshine_hours": 9.2,
+        "cloud_cover": 84
+    },
+    {
+        "date": "2024-01-12",
+        "region": "Srodmiescie",
+        "avg_temp": -7.7,
+        "min_temp": -12.0,
+        "max_temp": 0.5,
+        "precipitation": 33.5,
+        "sunshine_hours": 7.5,
+        "cloud_cover": 46
+    },
+    {
+        "date": "2024-01-13",
+        "region": "Gdynia",
+        "avg_temp": 22.6,
+        "min_temp": 15.7,
+        "max_temp": 25.8,
+        "precipitation": 21.5,
+        "sunshine_hours": 3.9,
+        "cloud_cover": 13
+    },
+    {
+        "date": "2024-01-14",
+        "region": "Gdańsk",
+        "avg_temp": 18.9,
+        "min_temp": 15.0,
+        "max_temp": 28.8,
+        "precipitation": 42.3,
+        "sunshine_hours": 1.5,
+        "cloud_cover": 71
+    },
+    {
+        "date": "2024-01-15",
+        "region": "Sopot",
+        "avg_temp": 12.4,
+        "min_temp": 7.0,
+        "max_temp": 19.7,
+        "precipitation": 2.1,
+        "sunshine_hours": 2.6,
+        "cloud_cover": 89
+    },
+    {
+        "date": "2024-01-16",
+        "region": "Matarnia",
+        "avg_temp": 24.8,
+        "min_temp": 19.4,
+        "max_temp": 34.3,
+        "precipitation": 16.9,
+        "sunshine_hours": 6.3,
+        "cloud_cover": 94
+    },
+    {
+        "date": "2024-01-17",
+        "region": "Jelitkowo",
+        "avg_temp": 10.4,
+        "min_temp": 7.3,
+        "max_temp": 17.9,
+        "precipitation": 5.7,
+        "sunshine_hours": 1.7,
+        "cloud_cover": 44
+    },
+    {
+        "date": "2024-01-18",
+        "region": "Gdynia",
+        "avg_temp": 15.5,
+        "min_temp": 7.5,
+        "max_temp": 21.7,
+        "precipitation": 30.0,
+        "sunshine_hours": 9.6,
+        "cloud_cover": 47
+    },
+    {
+        "date": "2024-01-19",
+        "region": "Jelitkowo",
+        "avg_temp": -6.3,
+        "min_temp": -10.9,
+        "max_temp": 1.9,
+        "precipitation": 46.0,
+        "sunshine_hours": 4.9,
+        "cloud_cover": 37
+    },
+    {
+        "date": "2024-01-20",
+        "region": "Oliwa",
+        "avg_temp": 16.2,
+        "min_temp": 9.1,
+        "max_temp": 26.2,
+        "precipitation": 2.2,
+        "sunshine_hours": 12.3,
+        "cloud_cover": 51
+    },
+    {
+        "date": "2024-01-21",
+        "region": "Brzezno",
+        "avg_temp": -2.4,
+        "min_temp": -10.7,
+        "max_temp": 0.8,
+        "precipitation": 33.5,
+        "sunshine_hours": 9.2,
+        "cloud_cover": 100
+    },
+    {
+        "date": "2024-01-22",
+        "region": "Sopot",
+        "avg_temp": 16.9,
+        "min_temp": 10.0,
+        "max_temp": 19.2,
+        "precipitation": 42.2,
+        "sunshine_hours": 14.1,
+        "cloud_cover": 92
+    },
+    {
+        "date": "2024-01-23",
+        "region": "Brzezno",
+        "avg_temp": 1.9,
+        "min_temp": -4.8,
+        "max_temp": 4.0,
+        "precipitation": 41.3,
+        "sunshine_hours": 12.7,
+        "cloud_cover": 90
+    },
+    {
+        "date": "2024-01-24",
+        "region": "Gdańsk",
+        "avg_temp": 18.0,
+        "min_temp": 12.9,
+        "max_temp": 22.7,
+        "precipitation": 29.9,
+        "sunshine_hours": 14.9,
+        "cloud_cover": 47
+    },
+    {
+        "date": "2024-01-25",
+        "region": "Srodmiescie",
+        "avg_temp": -1.3,
+        "min_temp": -6.8,
+        "max_temp": 8.6,
+        "precipitation": 42.7,
+        "sunshine_hours": 11.0,
+        "cloud_cover": 7
+    },
+    {
+        "date": "2024-01-26",
+        "region": "Brzezno",
+        "avg_temp": 20.0,
+        "min_temp": 11.0,
+        "max_temp": 29.9,
+        "precipitation": 3.0,
+        "sunshine_hours": 12.9,
+        "cloud_cover": 23
+    },
+    {
+        "date": "2024-01-27",
+        "region": "Gdańsk",
+        "avg_temp": 22.3,
+        "min_temp": 19.5,
+        "max_temp": 32.0,
+        "precipitation": 24.0,
+        "sunshine_hours": 11.6,
+        "cloud_cover": 49
+    },
+    {
+        "date": "2024-01-28",
+        "region": "Matarnia",
+        "avg_temp": 23.4,
+        "min_temp": 16.4,
+        "max_temp": 27.1,
+        "precipitation": 40.8,
+        "sunshine_hours": 1.5,
+        "cloud_cover": 13
+    },
+    {
+        "date": "2024-01-29",
+        "region": "Oliwa",
+        "avg_temp": -7.0,
+        "min_temp": -14.8,
+        "max_temp": 0.1,
+        "precipitation": 15.9,
+        "sunshine_hours": 11.7,
+        "cloud_cover": 85
+    },
+    {
+        "date": "2024-01-30",
+        "region": "Gdynia",
+        "avg_temp": 16.1,
+        "min_temp": 8.7,
+        "max_temp": 20.8,
+        "precipitation": 46.1,
+        "sunshine_hours": 1.6,
+        "cloud_cover": 32
+    },
+    {
+        "date": "2024-01-31",
+        "region": "Srodmiescie",
+        "avg_temp": -7.5,
+        "min_temp": -16.5,
+        "max_temp": -4.5,
+        "precipitation": 22.4,
+        "sunshine_hours": 11.4,
+        "cloud_cover": 72
+    },
+    {
+        "date": "2024-02-01",
+        "region": "Srodmiescie",
+        "avg_temp": -3.3,
+        "min_temp": -8.2,
+        "max_temp": 3.2,
+        "precipitation": 47.2,
+        "sunshine_hours": 9.8,
+        "cloud_cover": 50
+    },
+    {
+        "date": "2024-02-02",
+        "region": "Oliwa",
+        "avg_temp": -1.5,
+        "min_temp": -3.6,
+        "max_temp": 2.4,
+        "precipitation": 0.7,
+        "sunshine_hours": 5.4,
+        "cloud_cover": 91
+    },
+    {
+        "date": "2024-02-03",
+        "region": "Gdansk",
+        "avg_temp": -2.5,
+        "min_temp": -7.8,
+        "max_temp": 6.7,
+        "precipitation": 40.7,
+        "sunshine_hours": 11.6,
+        "cloud_cover": 95
+    },
+    {
+        "date": "2024-02-04",
+        "region": "Oliwa",
+        "avg_temp": 0.7,
+        "min_temp": -7.8,
+        "max_temp": 8.6,
+        "precipitation": 43.4,
+        "sunshine_hours": 2.0,
+        "cloud_cover": 99
+    },
+    {
+        "date": "2024-02-05",
+        "region": "Brzezno",
+        "avg_temp": 10.4,
+        "min_temp": 3.2,
+        "max_temp": 13.0,
+        "precipitation": 41.4,
+        "sunshine_hours": 3.9,
+        "cloud_cover": 43
+    },
+    {
+        "date": "2024-02-06",
+        "region": "Gdańsk",
+        "avg_temp": 15.7,
+        "min_temp": 10.1,
+        "max_temp": 24.9,
+        "precipitation": 41.2,
+        "sunshine_hours": 0.2,
+        "cloud_cover": 12
+    },
+    {
+        "date": "2024-02-07",
+        "region": "Sopot",
+        "avg_temp": 2.0,
+        "min_temp": -6.7,
+        "max_temp": 10.6,
+        "precipitation": 41.8,
+        "sunshine_hours": 4.0,
+        "cloud_cover": 63
+    },
+    {
+        "date": "2024-02-08",
+        "region": "Matarnia",
+        "avg_temp": -0.7,
+        "min_temp": -10.7,
+        "max_temp": 7.2,
+        "precipitation": 17.0,
+        "sunshine_hours": 0.5,
+        "cloud_cover": 74
+    },
+    {
+        "date": "2024-02-09",
+        "region": "Gdańsk",
+        "avg_temp": 13.7,
+        "min_temp": 3.8,
+        "max_temp": 23.6,
+        "precipitation": 17.8,
+        "sunshine_hours": 9.9,
+        "cloud_cover": 90
+    },
+    {
+        "date": "2024-02-10",
+        "region": "Oliwa",
+        "avg_temp": 8.7,
+        "min_temp": 5.5,
+        "max_temp": 13.1,
+        "precipitation": 34.1,
+        "sunshine_hours": 3.5,
+        "cloud_cover": 44
+    },
+    {
+        "date": "2024-02-11",
+        "region": "Brzezno",
+        "avg_temp": -4.3,
+        "min_temp": -7.2,
+        "max_temp": -0.6,
+        "precipitation": 27.3,
+        "sunshine_hours": 13.4,
+        "cloud_cover": 42
+    },
+    {
+        "date": "2024-02-12",
+        "region": "Matarnia",
+        "avg_temp": 7.1,
+        "min_temp": -1.2,
+        "max_temp": 14.4,
+        "precipitation": 12.2,
+        "sunshine_hours": 4.2,
+        "cloud_cover": 84
+    },
+    {
+        "date": "2024-02-13",
+        "region": "Gdynia",
+        "avg_temp": 23.2,
+        "min_temp": 15.3,
+        "max_temp": 31.9,
+        "precipitation": 42.9,
+        "sunshine_hours": 5.1,
+        "cloud_cover": 50
+    },
+    {
+        "date": "2024-02-14",
+        "region": "Matarnia",
+        "avg_temp": 23.7,
+        "min_temp": 20.6,
+        "max_temp": 27.9,
+        "precipitation": 49.3,
+        "sunshine_hours": 11.4,
+        "cloud_cover": 1
+    },
+    {
+        "date": "2024-02-15",
+        "region": "Gdańsk",
+        "avg_temp": 7.8,
+        "min_temp": 0.7,
+        "max_temp": 15.7,
+        "precipitation": 39.5,
+        "sunshine_hours": 11.8,
+        "cloud_cover": 62
+    },
+    {
+        "date": "2024-02-16",
+        "region": "Gdańsk",
+        "avg_temp": 13.6,
+        "min_temp": 8.8,
+        "max_temp": 22.1,
+        "precipitation": 40.2,
+        "sunshine_hours": 14.6,
+        "cloud_cover": 64
+    },
+    {
+        "date": "2024-02-17",
+        "region": "Gdańsk",
+        "avg_temp": 18.7,
+        "min_temp": 15.2,
+        "max_temp": 24.8,
+        "precipitation": 46.7,
+        "sunshine_hours": 3.7,
+        "cloud_cover": 50
+    },
+    {
+        "date": "2024-02-18",
+        "region": "Matarnia",
+        "avg_temp": -4.3,
+        "min_temp": -12.8,
+        "max_temp": 5.0,
+        "precipitation": 40.4,
+        "sunshine_hours": 9.9,
+        "cloud_cover": 24
+    },
+    {
+        "date": "2024-02-19",
+        "region": "Brzezno",
+        "avg_temp": 10.1,
+        "min_temp": 2.4,
+        "max_temp": 15.0,
+        "precipitation": 45.4,
+        "sunshine_hours": 6.8,
+        "cloud_cover": 78
+    },
+    {
+        "date": "2024-02-20",
+        "region": "Gdańsk",
+        "avg_temp": 21.6,
+        "min_temp": 14.3,
+        "max_temp": 30.5,
+        "precipitation": 15.6,
+        "sunshine_hours": 9.7,
+        "cloud_cover": 56
+    },
+    {
+        "date": "2024-02-21",
+        "region": "Gdynia",
+        "avg_temp": -2.6,
+        "min_temp": -7.7,
+        "max_temp": 6.4,
+        "precipitation": 11.7,
+        "sunshine_hours": 14.5,
+        "cloud_cover": 37
+    },
+    {
+        "date": "2024-02-22",
+        "region": "Srodmiescie",
+        "avg_temp": 25.0,
+        "min_temp": 18.7,
+        "max_temp": 34.4,
+        "precipitation": 22.5,
+        "sunshine_hours": 12.8,
+        "cloud_cover": 30
+    },
+    {
+        "date": "2024-02-23",
+        "region": "Jelitkowo",
+        "avg_temp": 2.6,
+        "min_temp": -7.4,
+        "max_temp": 6.2,
+        "precipitation": 9.4,
+        "sunshine_hours": 7.6,
+        "cloud_cover": 62
+    },
+    {
+        "date": "2024-02-24",
+        "region": "Srodmiescie",
+        "avg_temp": 20.1,
+        "min_temp": 12.2,
+        "max_temp": 25.7,
+        "precipitation": 34.1,
+        "sunshine_hours": 13.4,
+        "cloud_cover": 42
+    },
+    {
+        "date": "2024-02-25",
+        "region": "Srodmiescie",
+        "avg_temp": -0.9,
+        "min_temp": -10.7,
+        "max_temp": 7.1,
+        "precipitation": 39.2,
+        "sunshine_hours": 0.7,
+        "cloud_cover": 24
+    },
+    {
+        "date": "2024-02-26",
+        "region": "Matarnia",
+        "avg_temp": 7.7,
+        "min_temp": 0.4,
+        "max_temp": 12.4,
+        "precipitation": 35.4,
+        "sunshine_hours": 1.6,
+        "cloud_cover": 86
+    },
+    {
+        "date": "2024-02-27",
+        "region": "Gdańsk",
+        "avg_temp": -6.8,
+        "min_temp": -13.7,
+        "max_temp": -0.3,
+        "precipitation": 5.3,
+        "sunshine_hours": 13.4,
+        "cloud_cover": 98
+    },
+    {
+        "date": "2024-02-28",
+        "region": "Gdańsk",
+        "avg_temp": 2.5,
+        "min_temp": -0.3,
+        "max_temp": 11.2,
+        "precipitation": 17.0,
+        "sunshine_hours": 5.0,
+        "cloud_cover": 47
+    },
+    {
+        "date": "2024-03-01",
+        "region": "Sopot",
+        "avg_temp": 6.8,
+        "min_temp": -2.8,
+        "max_temp": 12.7,
+        "precipitation": 49.1,
+        "sunshine_hours": 5.2,
+        "cloud_cover": 92
+    },
+    {
+        "date": "2024-03-02",
+        "region": "Jelitkowo",
+        "avg_temp": 9.1,
+        "min_temp": 6.5,
+        "max_temp": 12.5,
+        "precipitation": 1.5,
+        "sunshine_hours": 4.8,
+        "cloud_cover": 24
+    },
+    {
+        "date": "2024-03-03",
+        "region": "Matarnia",
+        "avg_temp": 22.4,
+        "min_temp": 15.5,
+        "max_temp": 28.3,
+        "precipitation": 35.3,
+        "sunshine_hours": 1.1,
+        "cloud_cover": 62
+    },
+    {
+        "date": "2024-03-04",
+        "region": "Brzezno",
+        "avg_temp": -3.4,
+        "min_temp": -12.7,
+        "max_temp": 2.9,
+        "precipitation": 28.3,
+        "sunshine_hours": 13.6,
+        "cloud_cover": 93
+    },
+    {
+        "date": "2024-03-05",
+        "region": "Oliwa",
+        "avg_temp": 17.7,
+        "min_temp": 12.0,
+        "max_temp": 26.7,
+        "precipitation": 17.7,
+        "sunshine_hours": 1.2,
+        "cloud_cover": 18
+    },
+    {
+        "date": "2024-03-06",
+        "region": "Gdańsk",
+        "avg_temp": 14.6,
+        "min_temp": 5.8,
+        "max_temp": 23.5,
+        "precipitation": 35.4,
+        "sunshine_hours": 14.2,
+        "cloud_cover": 89
+    },
+    {
+        "date": "2024-03-07",
+        "region": "Srodmiescie",
+        "avg_temp": 12.5,
+        "min_temp": 5.2,
+        "max_temp": 14.8,
+        "precipitation": 26.1,
+        "sunshine_hours": 10.2,
+        "cloud_cover": 29
+    },
+    {
+        "date": "2024-03-08",
+        "region": "Matarnia",
+        "avg_temp": 8.7,
+        "min_temp": 3.5,
+        "max_temp": 11.4,
+        "precipitation": 43.2,
+        "sunshine_hours": 6.0,
+        "cloud_cover": 96
+    },
+    {
+        "date": "2024-03-09",
+        "region": "Gdańsk",
+        "avg_temp": -2.4,
+        "min_temp": -11.1,
+        "max_temp": -0.0,
+        "precipitation": 14.9,
+        "sunshine_hours": 0.8,
+        "cloud_cover": 54
+    },
+    {
+        "date": "2024-03-10",
+        "region": "Oliwa",
+        "avg_temp": 22.0,
+        "min_temp": 12.2,
+        "max_temp": 28.2,
+        "precipitation": 41.6,
+        "sunshine_hours": 0.3,
+        "cloud_cover": 77
+    },
+    {
+        "date": "2024-03-11",
+        "region": "Jelitkowo",
+        "avg_temp": 5.2,
+        "min_temp": 0.6,
+        "max_temp": 8.8,
+        "precipitation": 47.8,
+        "sunshine_hours": 12.5,
+        "cloud_cover": 48
+    },
+    {
+        "date": "2024-03-12",
+        "region": "Gdynia",
+        "avg_temp": 15.2,
+        "min_temp": 9.7,
+        "max_temp": 24.0,
+        "precipitation": 44.9,
+        "sunshine_hours": 4.3,
+        "cloud_cover": 68
+    },
+    {
+        "date": "2024-03-13",
+        "region": "Brzezno",
+        "avg_temp": 15.8,
+        "min_temp": 11.8,
+        "max_temp": 20.0,
+        "precipitation": 25.1,
+        "sunshine_hours": 0.7,
+        "cloud_cover": 17
+    },
+    {
+        "date": "2024-03-14",
+        "region": "Gdańsk",
+        "avg_temp": 20.6,
+        "min_temp": 11.1,
+        "max_temp": 28.7,
+        "precipitation": 9.7,
+        "sunshine_hours": 5.4,
+        "cloud_cover": 58
+    },
+    {
+        "date": "2024-03-15",
+        "region": "Sopot",
+        "avg_temp": 10.6,
+        "min_temp": 2.7,
+        "max_temp": 15.6,
+        "precipitation": 49.1,
+        "sunshine_hours": 12.1,
+        "cloud_cover": 8
+    },
+    {
+        "date": "2024-03-16",
+        "region": "Gdynia",
+        "avg_temp": 14.8,
+        "min_temp": 11.3,
+        "max_temp": 21.6,
+        "precipitation": 6.6,
+        "sunshine_hours": 0.6,
+        "cloud_cover": 7
+    },
+    {
+        "date": "2024-03-17",
+        "region": "Srodmiescie",
+        "avg_temp": -4.6,
+        "min_temp": -13.6,
+        "max_temp": 4.0,
+        "precipitation": 37.6,
+        "sunshine_hours": 0.3,
+        "cloud_cover": 33
+    },
+    {
+        "date": "2024-03-18",
+        "region": "Sopot",
+        "avg_temp": 12.3,
+        "min_temp": 5.0,
+        "max_temp": 19.6,
+        "precipitation": 49.4,
+        "sunshine_hours": 2.0,
+        "cloud_cover": 51
+    },
+    {
+        "date": "2024-03-19",
+        "region": "Gdynia",
+        "avg_temp": 22.6,
+        "min_temp": 18.6,
+        "max_temp": 31.2,
+        "precipitation": 32.2,
+        "sunshine_hours": 13.7,
+        "cloud_cover": 99
+    },
+    {
+        "date": "2024-03-20",
+        "region": "Gdańsk",
+        "avg_temp": 8.7,
+        "min_temp": -0.2,
+        "max_temp": 14.7,
+        "precipitation": 15.2,
+        "sunshine_hours": 10.1,
+        "cloud_cover": 50
+    },
+    {
+        "date": "2024-03-21",
+        "region": "Brzezno",
+        "avg_temp": 9.0,
+        "min_temp": 6.8,
+        "max_temp": 16.8,
+        "precipitation": 36.8,
+        "sunshine_hours": 2.3,
+        "cloud_cover": 65
+    },
+    {
+        "date": "2024-03-22",
+        "region": "Oliwa",
+        "avg_temp": -8.3,
+        "min_temp": -10.7,
+        "max_temp": 0.8,
+        "precipitation": 18.3,
+        "sunshine_hours": 7.3,
+        "cloud_cover": 100
+    },
+    {
+        "date": "2024-03-23",
+        "region": "Gdynia",
+        "avg_temp": 5.4,
+        "min_temp": 3.1,
+        "max_temp": 9.9,
+        "precipitation": 19.0,
+        "sunshine_hours": 0.3,
+        "cloud_cover": 68
+    },
+    {
+        "date": "2024-03-24",
+        "region": "Sopot",
+        "avg_temp": 17.6,
+        "min_temp": 14.1,
+        "max_temp": 19.9,
+        "precipitation": 43.6,
+        "sunshine_hours": 7.9,
+        "cloud_cover": 97
+    },
+    {
+        "date": "2024-03-25",
+        "region": "Sopot",
+        "avg_temp": 8.0,
+        "min_temp": 1.9,
+        "max_temp": 17.8,
+        "precipitation": 35.7,
+        "sunshine_hours": 0.4,
+        "cloud_cover": 82
+    },
+    {
+        "date": "2024-03-26",
+        "region": "Sopot",
+        "avg_temp": 14.7,
+        "min_temp": 9.6,
+        "max_temp": 20.1,
+        "precipitation": 10.2,
+        "sunshine_hours": 3.1,
+        "cloud_cover": 38
+    },
+    {
+        "date": "2024-03-27",
+        "region": "Matarnia",
+        "avg_temp": 15.0,
+        "min_temp": 8.6,
+        "max_temp": 20.8,
+        "precipitation": 37.2,
+        "sunshine_hours": 6.0,
+        "cloud_cover": 71
+    },
+    {
+        "date": "2024-03-28",
+        "region": "Oliwa",
+        "avg_temp": 13.2,
+        "min_temp": 3.5,
+        "max_temp": 18.0,
+        "precipitation": 14.2,
+        "sunshine_hours": 9.3,
+        "cloud_cover": 98
+    },
+    {
+        "date": "2024-03-29",
+        "region": "Sopot",
+        "avg_temp": 6.9,
+        "min_temp": 0.9,
+        "max_temp": 14.4,
+        "precipitation": 10.8,
+        "sunshine_hours": 7.9,
+        "cloud_cover": 53
+    },
+    {
+        "date": "2024-03-30",
+        "region": "Gdynia",
+        "avg_temp": -9.1,
+        "min_temp": -16.4,
+        "max_temp": -1.4,
+        "precipitation": 8.7,
+        "sunshine_hours": 2.3,
+        "cloud_cover": 53
+    },
+    {
+        "date": "2024-03-31",
+        "region": "Brzezno",
+        "avg_temp": -3.6,
+        "min_temp": -10.9,
+        "max_temp": 4.7,
+        "precipitation": 24.9,
+        "sunshine_hours": 4.4,
+        "cloud_cover": 69
+    },
+    {
+        "date": "2024-04-01",
+        "region": "Matarnia",
+        "avg_temp": -4.0,
+        "min_temp": -6.6,
+        "max_temp": -0.1,
+        "precipitation": 15.1,
+        "sunshine_hours": 11.7,
+        "cloud_cover": 20
+    },
+    {
+        "date": "2024-04-02",
+        "region": "Srodmiescie",
+        "avg_temp": 15.2,
+        "min_temp": 11.4,
+        "max_temp": 17.2,
+        "precipitation": 11.7,
+        "sunshine_hours": 5.1,
+        "cloud_cover": 96
+    },
+    {
+        "date": "2024-04-03",
+        "region": "Gdańsk",
+        "avg_temp": 9.4,
+        "min_temp": 7.0,
+        "max_temp": 16.2,
+        "precipitation": 2.2,
+        "sunshine_hours": 13.8,
+        "cloud_cover": 24
+    },
+    {
+        "date": "2024-04-04",
+        "region": "Brzezno",
+        "avg_temp": -1.5,
+        "min_temp": -10.9,
+        "max_temp": 4.1,
+        "precipitation": 28.3,
+        "sunshine_hours": 8.2,
+        "cloud_cover": 28
+    },
+    {
+        "date": "2024-04-05",
+        "region": "Gdańsk",
+        "avg_temp": -2.6,
+        "min_temp": -6.7,
+        "max_temp": 1.9,
+        "precipitation": 6.2,
+        "sunshine_hours": 9.6,
+        "cloud_cover": 23
+    },
+    {
+        "date": "2024-04-06",
+        "region": "Srodmiescie",
+        "avg_temp": -7.6,
+        "min_temp": -14.9,
+        "max_temp": -4.5,
+        "precipitation": 18.7,
+        "sunshine_hours": 4.7,
+        "cloud_cover": 42
+    },
+    {
+        "date": "2024-04-07",
+        "region": "Gdańsk",
+        "avg_temp": 20.8,
+        "min_temp": 18.6,
+        "max_temp": 28.1,
+        "precipitation": 38.9,
+        "sunshine_hours": 7.0,
+        "cloud_cover": 98
+    },
+    {
+        "date": "2024-04-08",
+        "region": "Gdańsk",
+        "avg_temp": 11.6,
+        "min_temp": 9.1,
+        "max_temp": 18.4,
+        "precipitation": 26.9,
+        "sunshine_hours": 14.7,
+        "cloud_cover": 41
+    },
+    {
+        "date": "2024-04-09",
+        "region": "Brzezno",
+        "avg_temp": -5.7,
+        "min_temp": -14.7,
+        "max_temp": 2.3,
+        "precipitation": 34.2,
+        "sunshine_hours": 2.6,
+        "cloud_cover": 8
+    },
+    {
+        "date": "2024-04-10",
+        "region": "Jelitkowo",
+        "avg_temp": -8.9,
+        "min_temp": -12.8,
+        "max_temp": -5.2,
+        "precipitation": 47.9,
+        "sunshine_hours": 12.5,
+        "cloud_cover": 92
+    }
+]
